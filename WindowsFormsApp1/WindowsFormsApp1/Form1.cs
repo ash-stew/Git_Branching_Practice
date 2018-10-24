@@ -24,7 +24,7 @@ namespace WindowsFormsApp1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Correct Login!");
+            MessageBox.Show("Correct, Proceed!");
         }
 
         private void button2_Click(object sender, EventArgs e)
